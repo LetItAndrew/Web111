@@ -2,7 +2,7 @@
   "name": "3_3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://LetItAndrew.github.com.io/Web111",
+  "homepage": "https://LetItAndrew.github.io/Web111",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
